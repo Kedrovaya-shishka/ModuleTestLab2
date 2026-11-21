@@ -2,12 +2,6 @@ using System.Text.RegularExpressions;
 
 namespace MyLibrary
 {
-    /// <summary>
-    /// Задание 4. Класс "строка". Поле: сама строка.
-    /// Методы: сформировать массив слов на основе строки (слова
-    /// разделяются одним или несколькими пробелами), сформировать
-    /// список всех слов, соответствующих заданному регулярному выражению.
-    /// </summary>
     public class MyStringClass
     {
         public string Value { get; set; }

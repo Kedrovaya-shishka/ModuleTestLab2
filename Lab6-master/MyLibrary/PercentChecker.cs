@@ -1,10 +1,5 @@
 namespace MyLibrary
 {
-    /// <summary>
-    /// Задание 2. Метод получает одномерный массив вещественных чисел
-    /// (процентные доли) и заданную точность. Определяет, составит ли
-    /// сумма процентов 100 с учётом заданной точности.
-    /// </summary>
     public class PercentChecker
     {
         public double[] Percents { get; set; } = Array.Empty<double>();
